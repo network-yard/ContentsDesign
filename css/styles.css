@@ -13,8 +13,8 @@
  .serif{
   font-family: serif,sans-serif;
  }
-.image{
- width: auto;
+img{
+ max-width: 100%;
  height: auto;
 }
 :root {
