@@ -13,10 +13,6 @@
  .serif{
   font-family: serif,sans-serif;
  }
-img{
- max-width: 100%;
- height: auto;
-}
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
