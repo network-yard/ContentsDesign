@@ -13,8 +13,8 @@
  .serif{
   font-family: serif,sans-serif;
  }
-.py-5{
-max-width: 100%;
+.image{
+ max-width: 100%;
 }
 :root {
   --bs-blue: #0d6efd;
