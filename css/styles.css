@@ -13,7 +13,7 @@
 .serif{
  font-family: serif,sans-serif;
 }
-.image{
+.image img{
  display: block; 
  margin: auto; 
  max-width:100%; 
