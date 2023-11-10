@@ -13,6 +13,11 @@
 .serif{
  font-family: serif,sans-serif;
 }
+#carouselExampleIndicators{
+    height: auto;
+    max-width: 80%;
+    margin: auto;
+}
 .image img{
  display: block; 
  margin: auto; 
